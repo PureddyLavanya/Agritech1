@@ -1,0 +1,72 @@
+<html>
+	<head>
+		<title>Pesticides For </title>
+	<link rel="icon" type="image/x-icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw_iUrQNMjsxzkKDCOJWmWa_spGoD3Ct21SA&usqp=CAU">
+	<style>
+	.column {
+  float: left;
+  width:430px;
+  padding:7px;
+ margin:87px 2px 87px 23px;
+  border-radius:10px;
+  border:5px solid Khaki;
+  text-align:center;
+}
+.row{
+margin-top:10px;
+left:3px;
+}
+
+/* Clear floats after rows */ 
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+/* Content */
+.content {
+  background-color: white;
+  padding:5px;
+  border-radius:10px;
+  text-align:center;
+  width:410px;
+}
+img:hover{
+width:390px;
+ height:387px;
+border-radius:10px;
+border:8px solid wheat;
+}
+h2{
+color:DarkOrchid;
+font-weight:30px;
+}
+img{
+ width:410px;
+ height:400px;
+ float:center;
+}	</style>
+	</head>
+	<body bgcolor="teal">
+	<div class="row">
+	<div class="column">
+	  <div class="content">
+		<img src="https://image.made-in-china.com/2f0j00PMoimkSaAHub/Ginger-Blast-Vegetable-Bacteria-Disease-Potato-Late-Blight-Fungicide-Copper-Hydroxide-77-7-Wdg.jpg">
+		
+	  </div>
+	</div>
+	<div class="column">
+	  <div class="content">
+		<img src="https://5.imimg.com/data5/GG/ER/MY-4503119/copperoxychloride-50-25-wp-fungicide-500x500.jpg">
+		
+	  </div>
+	</div>
+	<div class="column">
+	  <div class="content">
+		<img src="https://5.imimg.com/data5/FI/OH/MY-998144/copper-oxychloride-50-25-wdg-500x500.jpg">
+		
+	  </div>
+	</div>
+	</div>
+	</body>
+</html>

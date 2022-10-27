@@ -1,0 +1,74 @@
+<html>
+	<head>
+	<title>Machinery For Brinjal Crop</title>
+	<link rel="icon" type="image/x-icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw_iUrQNMjsxzkKDCOJWmWa_spGoD3Ct21SA&usqp=CAU">
+	<style>
+	.column {
+  float: left;
+  width:470px;
+  padding:7px;
+ margin:87px 2px 87px 3px;
+  border-radius:10px;
+  border:5px solid Khaki;
+  text-align:center;
+}
+.row{
+margin-top:10px;
+left:3px;
+}
+
+/* Clear floats after rows */ 
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+/* Content */
+.content {
+  background-color: white;
+  padding:5px;
+  border-radius:10px;
+  text-align:center;
+  width:460px;
+}
+img:hover{
+width:370px;
+height:370px;
+border-radius:10px;
+border:8px solid wheat;
+}
+h2{
+color:DarkOrchid;
+font-weight:30px;
+}
+img{
+ width:400px;
+ height:400px;
+ float:center;
+ border-radius:2px;
+
+}	</style>
+	</head>
+	<body bgcolor="teal">
+	<div class="row">
+	<div class="column">
+	  <div class="content">
+		<img src="data:image/jpeg;base64,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">
+		<h2>Lime Sulfur</h2>
+	  </div>
+	</div>
+	<div class="column">
+	  <div class="content">
+		<img src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/22191414-4e3a-4e57-b708-b797b8d17517.__CR148,0,886,1181_PT0_SX300_V1___.jpg">
+		<h2>Potassium</h2>
+	  </div>
+	</div>
+	<div class="column">
+	  <div class="content">
+		<img src="https://5.imimg.com/data5/PP/EV/MY-1199193/apple-calcium-chloride-powder-500x500.jpg">
+		<h2>calcium</h2>
+	  </div>
+	</div>
+	</div>
+	</body>
+</html>
